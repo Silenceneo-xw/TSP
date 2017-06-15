@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1497246661 source:f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\backtrack.cpp
+	"backtrack.h"
+
+1497246532 f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\backtrack.h
+	"graph.h"
+
+1497253002 source:f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\branch.cpp
+	<queue>
+	<cstring>
+	<algorithm>
+	"branch.h"
+
+1497249147 f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\branch.h
+	<vector>
+	"graph.h"
+
+1497247771 source:f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\dynamic.cpp
+	"dynamic.h"
+
+1496943317 f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\dynamic.h
+	"graph.h"
+
+1497275995 source:f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\genetic.cpp
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"genetic.h"
+
+1497269338 f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\genetic.h
+	<vector>
+	"graph.h"
+
+1496889033 source:f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\graph.cpp
+	<cmath>
+	<iomanip>
+	"graph.h"
+
+1497268262 f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\graph.h
+	<iostream>
+
+1496939775 source:f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\greedy.cpp
+	<cstring>
+	"greedy.h"
+
+1496939563 f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\greedy.h
+	"graph.h"
+
+1496885051 source:f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\main.cpp
+	"tsp.h"
+
+1496940224 f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\tsp.h
+	"greedy.h"
+	"genetic.h"
+	"backtrack.h"
+	"dynamic.h"
+	"branch.h"
+
+1497253857 source:f:\algorithm_analysis_and_design\算法设计实验\official\tsp\tsp\tsp.cpp
+	<ctime>
+	"tsp.h"
+
